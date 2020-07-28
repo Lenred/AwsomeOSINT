@@ -1,4 +1,4 @@
-# AwsomeOSINT
+# AwsomeOSINT 2020
 Awesome OSINT stuff 
 
 ### Awesome Extensions
@@ -12,6 +12,9 @@ Awesome OSINT stuff
 - [Dutch OsintGuy](https://twitter.com/dutch_osintguy)
 - [OSINT.Link](https://twitter.com/onlineosint)
 - [Stefanie Proto](https://twitter.com/sprp77)
+
+### Awesome Twitter Accounts
+- [Breaking News](https://twitter.com/breakingnews)
 
 ### Awesome websites
 - [Malware Traffic Analysis](http://www.malware-traffic-analysis.net/index.html)
