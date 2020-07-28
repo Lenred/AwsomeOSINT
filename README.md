@@ -82,7 +82,7 @@ Awesome OSINT stuff
 - [Deep Web Resources 2018](https://t.co/kEHkOUjnAj)
 
 ### Podcast
--[osintpodcast](http://osintpodcast.com/)
+- [osintpodcast](http://osintpodcast.com/)
 
 
 
