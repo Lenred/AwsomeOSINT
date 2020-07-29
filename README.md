@@ -13,6 +13,15 @@ Awesome OSINT stuff
 - [OSINT.Link](https://twitter.com/onlineosint)
 - [Stefanie Proto](https://twitter.com/sprp77)
 
+### News Sources
+- [Reuters](https://www.reuters.com/) Factual Accuracy: Very High, Political Leaning: Least Biased
+- [Al Jazeera](https://www.aljazeera.com/) Factual Accuracy: Mixed, Political Leaning: Left-Center
+- [CNN](https://www.cnn.com/) Factual Accuracy: Mixed, Political Leaning: Left
+- [Fox News](https://www.foxnews.com/) Factual Accuracy: Mixed, Political Leaning: Right
+
+- # [More Least biased news sources](https://mediabiasfactcheck.com/center/)
+
+
 ### Awesome Twitter Accounts
 - [Breaking News](https://twitter.com/breakingnews)
 
@@ -45,7 +54,7 @@ Awesome OSINT stuff
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
     
 ### Darkweb
-- [Dark Web Investigation Tools](https://iaca-darkweb-tools.com/)
+- [Dark Web Investigation Tools](https://iaca-darkweb-tools.com/) Excercise Caution
 
 ### Awesome Tools
 - [scrape PasteBin pastes](https://github.com/d-Rickyy-b/pastepwn)
