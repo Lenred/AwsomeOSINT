@@ -17,10 +17,12 @@ Awesome OSINT stuff
 - [Breaking News](https://twitter.com/breakingnews)
 
 ### Awesome websites
+- [NC4 Map](https://solutions10.n-c4.net/wrkitem/WorkItemMainAction.do)
+- [Twitter Trends](https://twitter.com/explore)
+- [Finding Retweets](https://twren.ch/)
 - [Malware Traffic Analysis](http://www.malware-traffic-analysis.net/index.html)
 - [Internet-wide search engine for digital certificates](https://certdb.com/)
 - [Telegram Search Engine](https://bit.ly/Telegago)
-- [Finding Retweets](https://twren.ch/)
 - [GPSies - track search](https://www.gpsies.com/trackList.do)
 - [Boolean Strings](https://booleanstrings.com/)
 - [Jake Creps](https://jakecreps.com/)
@@ -41,15 +43,9 @@ Awesome OSINT stuff
 - [haveibeenpwned](https://haveibeenpwned.com/)
 - [reverse lookup](https://www.yougetsignal.com/)
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
-
-    ### Social
-    - [GramSpy](http://gramspy.com/)
-    - [Buzzweb](https://buzzweb.pro/)
-    - [followerwonk](https://followerwonk.com/pro)
-    - [snapchat Map](https://map.snapchat.com)
     
-    ### Darkweb
-    - [Dark Web Investigation Tools](https://iaca-darkweb-tools.com/)
+### Darkweb
+- [Dark Web Investigation Tools](https://iaca-darkweb-tools.com/)
 
 ### Awesome Tools
 - [scrape PasteBin pastes](https://github.com/d-Rickyy-b/pastepwn)
@@ -72,8 +68,8 @@ Awesome OSINT stuff
 - [TOR Hidden Service Crawler](https://github.com/thelematic/poopak)
 - [Darknet Osint Graph Explorer](https://github.com/pielco11/DOGE)
 
-    ### Resourse Portal
-    - [Resource Portal](http://osint.link/)
+### Resourse Portal
+- [Resource Portal](http://osint.link/)
 
 
 ### Awesome Reads 
@@ -83,6 +79,3 @@ Awesome OSINT stuff
 
 ### Podcast
 - [osintpodcast](http://osintpodcast.com/)
-
-
-
