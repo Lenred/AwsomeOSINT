@@ -78,7 +78,11 @@ Awesome OSINT stuff
 - [Darknet Osint Graph Explorer](https://github.com/pielco11/DOGE)
 
 ### Resourse Portal
+- [Belling Cat's toolkit/guide](https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit#heading=h.po9n93ahppok)
 - [Resource Portal](http://osint.link/)
+- [Google Maps Pro](https://www.google.com/earth/versions/#earth-pro) [how to see historic Maps](https://www.businessinsider.nl/how-to-go-back-in-time-on-google-earth?international=true&r=US)
+- [Maltego](https://www.maltego.com/?utm_source=paterva.com&utm_medium=referral&utm_campaign=301)
+
 
 
 ### Awesome Reads 
